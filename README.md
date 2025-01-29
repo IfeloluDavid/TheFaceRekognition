@@ -21,4 +21,4 @@ Amazon Rekognition analyzes the image
 Amazon SNS sends an email with face count
 
 
-🔗 Medium Article: [Insert link]
+🔗 Medium Article:(https://ifeloludavid.medium.com/face-detection-with-amazon-rekognition-and-aws-lambda-43bf6b61842b)
