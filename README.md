@@ -25,3 +25,4 @@ Amazon SNS sends an email with face count
 
 
 🔗 Medium Article:(https://ifeloludavid.medium.com/face-detection-with-amazon-rekognition-and-aws-lambda-43bf6b61842b)
+🔗 Youtube video walkthrough: https://youtu.be/oSLluwD40iM
